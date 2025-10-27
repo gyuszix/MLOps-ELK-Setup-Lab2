@@ -4,6 +4,7 @@ Got the full ELK stack (Elasticsearch, Logstash, Kibana) running locally on macO
 The goal was to pipe model training logs into Elasticsearch and make them visible in Kibana.
 
 THERE WAS NO REQUIREMENT TO USE A GITHUB REPO BEFORE SO I UPLOADED THIS TO GITHUB AFTER THE REQUEST WAS MADE.
+I excluded elasticsearch, kibana and logistash files from the repo. 
 
 ### What I did
 - Set up Elasticsearch, Logstash, and Kibana inside the same folder so everything’s self-contained.  
